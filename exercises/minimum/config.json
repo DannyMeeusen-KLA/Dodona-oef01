@@ -1,0 +1,14 @@
+{
+    "description": {
+      "names": {
+        "en": "Minimum_En",
+        "nl": "Minimum"
+      }
+    },
+    "evaluation": {
+      "handler": "tested",
+      "test_suite": "suite.yaml"
+    },
+    "programming_language": "python",
+    "access": "private"
+  }
