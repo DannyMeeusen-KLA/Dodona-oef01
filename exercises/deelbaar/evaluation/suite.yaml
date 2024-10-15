@@ -1,4 +1,4 @@
-- tab: "deelbaar"
+- tab: "deelbaar of niet"
   testcases:
     - stdin: "20\n5"
       stdout: "DEELBAAR"

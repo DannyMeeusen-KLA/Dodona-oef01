@@ -1,0 +1,12 @@
+- tab: "stijgendzonderdubbels"
+  testcases:
+    - stdin: "12\n13"
+      stdout: "12 13"
+    - stdin: "13\n12"
+      stdout: "12 13"
+    - stdin: "15\n15"
+      stdout: "15"
+    - stdin: "-9\n-11"
+      stdout: "-11 -9"
+    - stdin: "-13\n-13"
+      stdout: "-13"

@@ -1,0 +1,21 @@
+{
+    "description": {
+      "names": {
+        "en": "Increasing while eliminating doubles",
+        "nl": "Stijgend zonder dubbels"
+      }
+    },
+    "evaluation": {
+      "handler": "tested",
+      "test_suite": "suite.yaml"
+    },
+    "programming_language": "python",
+    "access": "private",
+    "internals": {
+      "token": "R84-rUydru9_-iRqUDuHZ8_TVCc332CpVAAp5WBbzFih-Ryny_ztXMrgtYqcVPZJ",
+      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+    },
+    "labels": [
+  
+    ]
+  }
