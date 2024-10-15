@@ -7,7 +7,7 @@ Het programma kijkt na of het tweede getal een deler is van het eerste of niet.
 
 ```console?lang=python&prompt=>>>
 >>> 15
->>> 5
+>>> 3
 DEELBAAR
 >>> 15
 >>> 4

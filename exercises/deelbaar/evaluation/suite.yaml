@@ -2,5 +2,5 @@
   testcases:
     - stdin: "20\n5"
       stdout: "DEELBAAR"
-    - stdin: "20\n6"
+    - stdin: "20\n7"
       stdout: "NIET DEELBAAR"
