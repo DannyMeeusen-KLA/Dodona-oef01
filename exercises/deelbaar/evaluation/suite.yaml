@@ -1,6 +1,6 @@
 - tab: "deelbaar"
   testcases:
     - stdin: "20\n5"
-      return: "DEELBAAR"
+      stdout: "DEELBAAR"
     - stdin: "20\n6"
-      return: "NIET DEELBAAR"
+      stdout: "NIET DEELBAAR"
