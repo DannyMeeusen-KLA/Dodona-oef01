@@ -1,21 +1,21 @@
 {
-    "description": {
-      "names": {
-        "en": "Count the positive numbers",
-        "nl": "Tel het aantal positieve getallen"
-      }
-    },
-    "evaluation": {
-      "handler": "tested",
-      "test_suite": "suite.yaml"
-    },
-    "programming_language": "python",
-    "access": "private",
-    "internals": {
-      "token": "AQhR_T9bn8r-hMVNZ9hUyKX_TeAkq-DxZkFWSBc4QD76d6Ej-e__pEHqNWr4bxyB",
-      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-    },
-    "labels": [
-  
-    ]
-  }
+  "description": {
+    "names": {
+      "en": "Count the positive numbers",
+      "nl": "Tel het aantal positieve getallen"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "SvFPsGjrHSpDhsbw2D3sYTBpHwtEqJ666_-Ih-rPaWVHEyR_9ji_7iNVwjFJPJNf",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
