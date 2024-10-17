@@ -1,6 +1,6 @@
 Schrijf een programma waarbij twee gehele getallen worden ingegeven.  
 Als minstens één van de twee getallen strikt negatief is (d.w.z. kleiner dan 0), dan drukt het programma de tekst NEGATIEF af.  
-Als beide getallen groter of gelijk zijn aan 0, dan drukt het programma de tekst NEGATIEF af.
+Als beide getallen groter of gelijk zijn aan 0, dan drukt het programma de tekst POSITIEF af.
 
 ### Voorbeeld
 
