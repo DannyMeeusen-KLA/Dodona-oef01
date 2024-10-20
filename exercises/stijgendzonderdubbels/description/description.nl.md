@@ -1,5 +1,5 @@
-Schrijf een programma waarbij twee gehele getallen worden ingegeven.
-Het programma sorteert de twee getallen in stijgende volgorde en drukt ze af, gescheiden door een spatie. 
+Schrijf een programma waarbij twee gehele getallen worden ingegeven.  
+Het programma sorteert de twee getallen in stijgende volgorde en drukt ze af, gescheiden door een spatie.  
 Als de twee getallen gelijk zijn, dan mag het getal slechts één keer afgedrukt worden.
 
 ### Voorbeeld
