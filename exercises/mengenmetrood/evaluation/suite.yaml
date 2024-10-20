@@ -1,0 +1,12 @@
+- tab: "mengenmetrood"
+  testcases:
+    - stdin: "WIT"
+      stdout: "ROOS"
+    - stdin: "GEEL"
+      stdout: "ORANJE"
+    - stdin: "BLAUW"
+      stdout: "PAARS"
+    - stdin: "GROEN"
+      stdout: "MENGSEL NIET GEKEND"
+    - stdin: "geel"
+      stdout: "MENGSEL NIET GEKEND"
