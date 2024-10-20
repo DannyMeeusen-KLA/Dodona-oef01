@@ -1,0 +1,12 @@
+- tab: "tafelsnodig"
+  testcases:
+    - stdin: "15\n3"
+      stdout: "5"
+    - stdin: "15\n4"
+      stdout: "4"
+    - stdin: "24\n6"
+      stdout: "4"
+    - stdin: "25\n6"
+      stdout: "5"
+    - stdin: "1\n5"
+      stdout: "1"
