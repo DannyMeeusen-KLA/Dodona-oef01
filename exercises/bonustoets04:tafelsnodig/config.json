@@ -1,21 +1,21 @@
 {
-    "description": {
-      "names": {
-        "en": "Tables needed",
-        "nl": "Benodigde tafels"
-      }
-    },
-    "evaluation": {
-      "handler": "tested",
-      "test_suite": "suite.yaml"
-    },
-    "programming_language": "python",
-    "access": "private",
-    "internals": {
-      "token": "AQhR_T9bn8r-hMVNZ9hUyKX_TeAkq-DxZkFWSBc4QD76d6Ej-e__pEHqNWr4bxyB",
-      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-    },
-    "labels": [
-  
-    ]
-  }
+  "description": {
+    "names": {
+      "en": "Tables needed",
+      "nl": "Benodigde tafels"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "V7XQ3sDwBxUicIBjb_2mwyX5GNjhC4Czx6qTtCSFyqV9sKUhw-sKd3BaUIBYa5eU",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
