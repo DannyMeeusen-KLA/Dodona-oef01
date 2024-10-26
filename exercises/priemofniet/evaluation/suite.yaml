@@ -12,3 +12,7 @@
       stdout: "GEEN PRIEMGETAL"
     - stdin: "997"
       stdout: "PRIEMGETAL"
+    - stdin: "7919"
+      stdout: "PRIEMGETAL"
+    - stdin: "104729"
+      stdout: "PRIEMGETAL"
