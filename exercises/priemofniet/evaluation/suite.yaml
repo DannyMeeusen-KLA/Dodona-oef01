@@ -9,6 +9,6 @@
     - stdin: "3"
       stdout: "PRIEMGETAL"
     - stdin: "4"
-      stdout: "PRIEMGETAL"
+      stdout: "GEEN PRIEMGETAL"
     - stdin: "997"
       stdout: "PRIEMGETAL"
