@@ -1,21 +1,21 @@
 {
-    "description": {
-      "names": {
-        "en": "Prime or not",
-        "nl": "Priemgetal of niet"
-      }
-    },
-    "evaluation": {
-      "handler": "tested",
-      "test_suite": "suite.yaml"
-    },
-    "programming_language": "python",
-    "access": "private",
-    "internals": {
-      "token": "HkhexJ7VFSc7YRcBbCAv4gd9khfuztKHhwGkWvW59g_ZiqHJufnm-fAjdh6er8K8",
-      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-    },
-    "labels": [
-  
-    ]
-  }
+  "description": {
+    "names": {
+      "en": "Prime or not",
+      "nl": "Priemgetal of niet"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "2W94eDwVPr4gvHbWKpEVM6gaFxiXddQJ3QbGmfzQT5QBkiUWayD7_kabPNMX7FHU",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
