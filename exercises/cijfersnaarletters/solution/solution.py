@@ -74,7 +74,9 @@ eenheid = getal%10
 
 #uitzondering voor 11 t.e.m. 19
 whonderd = cNaarw(honderdtal, "H")
-if tiental == 1:
+if tiental == 0:
+    wtieneenheid = cNaarw(eenheid, "E")
+elif tiental == 1:
     if eenheid == 0:
         wtieneenheid = "tien"
     elif eenheid == 1:
@@ -87,6 +89,8 @@ if tiental == 1:
         wtieneenheid = "veertien"
     else:
         wtieneenheid = cNaarw(eenheid, "E")+"tien"
+elif eenheid == 0:
+    wtieneenheid = cNaarw(tiental, "T")
 else:
     wtieneenheid = cNaarw(eenheid, "E")+"en"+cNaarw(tiental, "T")
 
