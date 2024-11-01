@@ -5,7 +5,7 @@
     - stdin: "212"
       stdout: "tweehonderdtwaalf"
     - stdin: "356"
-      stdout: "driehonderzesenvijftig"
+      stdout: "driehonderdzesenvijftig"
     - stdin: "910"
       stdout: "negenhonderdtien"
     - stdin: "111"
