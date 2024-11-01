@@ -1,21 +1,21 @@
 {
-    "description": {
-      "names": {
-        "en": "Figures to characters",
-        "nl": "Van cijfers naar letters"
-      }
-    },
-    "evaluation": {
-      "handler": "tested",
-      "test_suite": "suite.yaml"
-    },
-    "programming_language": "python",
-    "access": "private",
-    "internals": {
-      "token": "6fFIJKe8wzsn8wWgH66tbXVfG9Rp86cJxiAH65zX89iVhS8pAbrBZqjNkRIasnvF",
-      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-    },
-    "labels": [
-  
-    ]
-  }
+  "description": {
+    "names": {
+      "en": "Figures to characters",
+      "nl": "Van cijfers naar letters"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "hWUveBg7cKHbFvDdTgWd2DWJN4k58_zS_mjuETWUaHmTr4J49k5CiEf9Jj27QrzD",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
