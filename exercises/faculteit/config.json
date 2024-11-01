@@ -1,21 +1,21 @@
 {
-    "description": {
-      "names": {
-        "en": "Factorial",
-        "nl": "Faculteit"
-      }
-    },
-    "evaluation": {
-      "handler": "tested",
-      "test_suite": "suite.yaml"
-    },
-    "programming_language": "python",
-    "access": "private",
-    "internals": {
-      "token": "hWUveBg7cKHbFvDdTgWd2DWJN4k58_zS_mjuETWUaHmTr4J49k5CiEf9Jj27QrzD",
-      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-    },
-    "labels": [
-  
-    ]
-  }
+  "description": {
+    "names": {
+      "en": "Factorial",
+      "nl": "Faculteit"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "GvwKG6xUX2Ftvtwc9cZKZuEhRZP98Xr7pEeh2CRbdUf5q5RqwXtYURCnwQ5D7t83",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
