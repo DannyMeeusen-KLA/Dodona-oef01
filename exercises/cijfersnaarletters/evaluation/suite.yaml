@@ -16,3 +16,7 @@
       stdout: "veertig"
     - stdin: "888"
       stdout: "achthonderdachtentachtig"
+    - stdin: "11"
+      stdout: "elf"
+    - stdin: "4"
+      stdout: "vier"

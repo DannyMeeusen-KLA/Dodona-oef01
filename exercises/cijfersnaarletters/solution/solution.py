@@ -3,69 +3,69 @@ def cNaarw (in_cijfer, in_plaats):
     if in_cijfer == 0:
         return ""
     elif in_cijfer == 1:
-        if in_plaats = "H":
+        if in_plaats == "H":
             return "honderd"
-        elif in_plaats = "T"
+        elif in_plaats == "T":
             return "tien"
         else:
-            return "eenen"
+            return "een"
     elif in_cijfer == 2:
-        if in_plaats = "H":
+        if in_plaats == "H":
             return "tweehonderd"
-        elif in_plaats = "T"
+        elif in_plaats == "T":
             return "twintig"
         else:
-            return "tweeen"
+            return "twee"
     elif in_cijfer == 3:
-        if in_plaats = "H":
+        if in_plaats == "H":
             return "driehonderd"
-        elif in_plaats = "T"
+        elif in_plaats == "T":
             return "dertig"
         else:
-            return "drieen"
+            return "drie"
     elif in_cijfer == 4:
-        if in_plaats = "H":
+        if in_plaats == "H":
             return "vierhonderd"
-        elif in_plaats = "T"
+        elif in_plaats == "T":
             return "veertig"
         else:
-            return "vieren"
+            return "vier"
     elif in_cijfer == 5:
-        if in_plaats = "H":
+        if in_plaats == "H":
             return "vijfhonderd"
-        elif in_plaats = "T"
+        elif in_plaats == "T":
             return "vijftig"
         else:
-            return "vijfen"
+            return "vijf"
     elif in_cijfer == 6:
-        if in_plaats = "H":
+        if in_plaats == "H":
             return "zeshonderd"
-        elif in_plaats = "T"
+        elif in_plaats == "T":
             return "zestig"
         else:
-            return "zesen"
+            return "zes"
     elif in_cijfer == 7:
-        if in_plaats = "H":
+        if in_plaats == "H":
             return "zevenhonderd"
-        elif in_plaats = "T"
+        elif in_plaats == "T":
             return "zeventig"
         else:
-            return "zevenen"
+            return "zeven"
     elif in_cijfer == 8:
-        if in_plaats = "H":
+        if in_plaats == "H":
             return "achthonderd"
-        elif in_plaats = "T"
+        elif in_plaats == "T":
             return "tachtig"
         else:
-            return "achten"
+            return "acht"
     elif in_cijfer == 9:
-        if in_plaats = "H":
+        if in_plaats == "H":
             return "negenhonderd"
-        elif in_plaats = "T"
+        elif in_plaats == "T":
             return "negentig"
         else:
-            return "negenen"
-    elif
+            return "negen"
+
 
 getal = int(input('Geef een getal in: '))
 honderdtal = getal//100
@@ -85,18 +85,9 @@ if tiental == 1:
         wtieneenheid = "dertien"
     elif eenheid == 4:
         wtieneenheid = "veertien"
-    elif eenheid == 5:
-        wtieneenheid = "vijftien"
-    elif eenheid == 6:
-        wtieneenheid = "zestien"
-    elif eenheid == 7:
-        wtieneenheid = "zeventien"
-    elif eenheid == 8:
-        wtieneenheid = "achttien"
     else:
-        wtieneenheid = "negentien"
+        wtieneenheid = cNaarw(eenheid, "E")+"tien"
 else:
-    wtieneenheid = cNaarw(eenheid, "E")+cNaarw(tiental, "T")
+    wtieneenheid = cNaarw(eenheid, "E")+"en"+cNaarw(tiental, "T")
 
 print (whonderd+wtieneenheid)
-
