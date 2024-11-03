@@ -1,0 +1,21 @@
+{
+    "description": {
+      "names": {
+        "en": "Playing with lists (ex. 1)",
+        "nl": "Spelen met lijsten (oef. 1)"
+      }
+    },
+    "evaluation": {
+      "handler": "tested",
+      "test_suite": "suite.yaml"
+    },
+    "programming_language": "python",
+    "access": "private",
+    "internals": {
+      "token": "GvwKG6xUX2Ftvtwc9cZKZuEhRZP98Xr7pEeh2CRbdUf5q5RqwXtYURCnwQ5D7t83",
+      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+    },
+    "labels": [
+  
+    ]
+  }

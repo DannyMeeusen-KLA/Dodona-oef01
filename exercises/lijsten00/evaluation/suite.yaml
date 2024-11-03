@@ -1,0 +1,6 @@
+- tab: "lijsten00"
+  testcases:
+    - stdin: "10"
+      stdout: "6\n[10, 12, 28, 16, 18, 20]"
+    - stdin: "16"
+      stdout: "8\n[16, 18, 40, 22, 24, 26, 28, 32]"
