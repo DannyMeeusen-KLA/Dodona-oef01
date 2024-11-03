@@ -2,8 +2,8 @@ Schrijf een programma waarbij de gebruiker een natuurlijk even getal groter dan 
 Gebruik de range-functie om een lijst te maken  
 - met het ingebrachte getal als ondergrens  
 - met het dubbel van het ingebrachte getal als bovengrens  
-- die enkel even getallen bevat
-Verdubbel vervolgens het derde element van de lijst.
+- die enkel even getallen bevat  
+Verdubbel vervolgens het derde element van de lijst.  
 Als het getal 30 in de lijst voorkomt, verwijder het dan.  
 Druk het aantal elementen in de lijst af.  
 Druk de bekomen lijst af.
