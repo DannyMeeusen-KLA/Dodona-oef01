@@ -1,0 +1,8 @@
+- tab: "lijsten01"
+  testcases:
+    - stdin: "10 5 9"
+      stdout: "[10, 5, 9]"
+    - stdin: "-16 -45 0"
+      stdout: "[-16, -45, 0]"
+    - stdin: "16 8 10"
+      stdout: "[16, 8, 10]"
