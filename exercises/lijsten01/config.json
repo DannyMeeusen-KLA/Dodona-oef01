@@ -1,21 +1,21 @@
 {
-    "description": {
-      "names": {
-        "en": "Switch elements from string to int",
-        "nl": "Tabelelementen van string naar int"
-      }
-    },
-    "evaluation": {
-      "handler": "tested",
-      "test_suite": "suite.yaml"
-    },
-    "programming_language": "python",
-    "access": "private",
-    "internals": {
-      "token": "236iSmNuh4TwPeUs4Sr8beYNrD8X6sg9ykgYrSz77tdbKznI6qX8JnQneWHyrTvM",
-      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-    },
-    "labels": [
-  
-    ]
-  }
+  "description": {
+    "names": {
+      "en": "Switch elements from string to int",
+      "nl": "Tabelelementen van string naar int"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "ZBtrmNm8sjC-k8keb9eNe8pKWCIQ7Ry76ZsqM9i-kBetmt-G9iUXx-VnUHy-YiRa",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
