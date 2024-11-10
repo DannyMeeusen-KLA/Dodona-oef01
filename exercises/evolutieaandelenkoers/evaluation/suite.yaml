@@ -1,1 +1,9 @@
-aaa
+- tab: "evolutieaandelenkoers"
+  testcases:
+    - stdin: "AB-Inbev\n67\n68"
+      stdout: "De koers van het aandeel AB-Inbev is gestegen"
+    - stdin: "Elia\n32\n31"
+      stdout: "De koers van het aandeel Elia is gedaald"
+    - stdin: "KBC\n41\n41"
+      stdout: "De koers van het aandeel KBC is ongewijzigd"
+
