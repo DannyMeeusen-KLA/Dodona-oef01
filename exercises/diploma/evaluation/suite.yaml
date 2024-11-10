@@ -1,0 +1,13 @@
+- tab: "diploma"
+  testcases:
+    - stdin: "Andrea\n82"
+      stdout: "Andrea haalde een diploma met grote onderscheiding"
+    - stdin: "Feline\n80"
+      stdout: "Andrea haalde een diploma met grote onderscheiding"
+    - stdin: "Juliette\n78"
+      stdout: "Juliette haalde een diploma met onderscheiding"
+    - stdin: "Yulin\n70"
+      stdout: "Yulin haalde een diploma met onderscheiding"
+    - stdin: "Mia\n61"
+      stdout: "Mia haalde een diploma"
+
