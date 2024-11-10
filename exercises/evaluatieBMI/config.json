@@ -1,21 +1,21 @@
 {
-    "description": {
-      "names": {
-        "en": "Evaluate someone's BMI",
-        "nl": "Evalueer iemands BMI"
-      }
-    },
-    "evaluation": {
-      "handler": "tested",
-      "test_suite": "suite.yaml"
-    },
-    "programming_language": "python",
-    "access": "private",
-    "internals": {
-      "token": "ZBtrmNm8sjC-k8keb9eNe8pKWCIQ7Ry76ZsqM9i-kBetmt-G9iUXx-VnUHy-YiRa",
-      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-    },
-    "labels": [
-  
-    ]
-  }
+  "description": {
+    "names": {
+      "en": "Evaluate someone's BMI",
+      "nl": "Evalueer iemands BMI"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "dMWSkTBc6iN_IE8ZWIt3bCeTTrN7szAGd7tvf_rmXdWUeKpMK-NFrPDrNgpjy7Ez",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
