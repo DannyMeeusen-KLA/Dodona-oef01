@@ -5,5 +5,5 @@ if BMI < 20:
     print ("De BMI van", patient, "is te laag")
 elif BMI <= 25:
     print ("De BMI van", patient, "is perfect")
-else
-    print ("De BMI van", patient, "is te hoog"
+else:
+    print ("De BMI van", patient, "is te hoog")
