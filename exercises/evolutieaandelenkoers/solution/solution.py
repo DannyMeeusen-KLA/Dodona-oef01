@@ -5,7 +5,7 @@ koersvandaag = int(input('Geef de koers van vandaag: '))
 if koersgisteren < koersvandaag:
     print ('De koers van het aandeel', aandeel, 'is gestegen')
 elif koersgisteren == koersvandaag:
-    print ('De koers van het aandeel', aandeel, 'is gedaald')
-else:
     print ('De koers van het aandeel', aandeel, 'is ongewijzigd')
+else:
+    print ('De koers van het aandeel', aandeel, 'is gedaald')
 
