@@ -9,7 +9,7 @@
     - stdin: "24\n6"
       stdout: "De rest bij deling van 24 door 6 is nul ."
     - stdin: "26\n5"
-      stdout: "De rest bij deling van 24 door 6 is een ."
+      stdout: "De rest bij deling van 26 door 5 is een ."
     - stdin: "26\n6"
       stdout: "De rest bij deling van 26 door 6 is twee ."
     - stdin: "21\n6"
