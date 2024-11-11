@@ -9,5 +9,5 @@ for prov in provincies:
 for letter in woord:
     print(letter)
 
-for teller in range (0, grondtal, 1):
+for teller in range (1, grondtal+1, 1):
     print (teller**2)
