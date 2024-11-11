@@ -1,9 +1,9 @@
 - tab: "voetbaluitslag"
   testcases:
     - stdin: "Union\n4\nRC Genk\n0"
-      stdout: "Union wint de wedstrijd"
+      stdout: "Union wint de wedstrijd."
     - stdin: "Beerschot\n2\nClub Brugge\n2"
-      stdout: "Beerschot en Club Brugge spelen gelijk"
+      stdout: "Beerschot en Club Brugge spelen gelijk."
     - stdin: "Kortrijk\n1\nAntwerp\n2"
-      stdout: "Antwerp wint de wedstrijd"
+      stdout: "Antwerp wint de wedstrijd."
 
