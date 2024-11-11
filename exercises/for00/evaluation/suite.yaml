@@ -1,0 +1,8 @@
+- tab: "for00"
+  testcases:
+    - stdin: "KLA\n4"
+      stdout: "Antwerpen\nLimburg\nOost-Vlaanderen\nVlaams-Brabant\nWest-Vlaanderen\nK\nL\nA\n1\n4\n9\n9"
+    - stdin: "wiskunde\n6"
+      stdout: "Antwerpen\nLimburg\nOost-Vlaanderen\nVlaams-Brabant\nWest-Vlaanderen\nw\ni\ns\nk\nu\nn\nd\ne\n1\n4\n9\n16\n25\n36"
+    - stdin: "Antw\n0"
+      stdout: "Antwerpen\nLimburg\nOost-Vlaanderen\nVlaams-Brabant\nWest-Vlaanderen\nA\nn\nt\nw"
