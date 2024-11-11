@@ -5,7 +5,7 @@ Als de deler correct is, wordt de rest berekend en de volgende zin afgedrukt:
 *De rest bij deling van **deeltal** door **deler** is **rest-in-letters** .*  
   
 Daarbij zijn **deeltal** en **deler** vervangen door de ingevoerde getallen, en is **rest-in-letters** vervangen door de gehele rest van de deling in lettervorm.
-Bekijk de voorbeelden.  
+Bekijk de voorbeelden.    
 
 Je bent verplicht om de mogelijke rest uit een lijst op te halen met als elementen ['nul', 'een', 'twee', 'drie', ...]
 
