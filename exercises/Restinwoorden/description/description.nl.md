@@ -2,7 +2,7 @@ Schrijf een programma waarbij de gebruiker een deeltal en een deler kan ingeven.
 Het programma kijkt eerst na of de deler een strikt natuurlijk getal is dat kleiner of gelijk is aan 10. Als dat niet het geval is,
 wordt de melding *De deler is niet correct.* afgedrukt.  
 Als de deler correct is, wordt de rest berekend en de volgende zin afgedrukt:  
-*De rest bij deling van **deeltal** door **deler** is **rest-in-letters** .  
+*De rest bij deling van **deeltal** door **deler** is **rest-in-letters** .*  
   
 Daarbij zijn **deeltal** en **deler** vervangen door de ingevoerde getallen, en is **rest-in-letters** vervangen door de gehele rest van de deling in lettervorm.
 Bekijk de voorbeelden.  
