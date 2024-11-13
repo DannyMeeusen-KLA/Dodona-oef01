@@ -3,7 +3,12 @@ Het programma drukt twee lijsten af:
 - een lijst met alle ingegeven even cijfers, gesorteerd van klein naar groot  
 - een lijst met alle ingegeven oneven cijfers, gesorteerd van klein naar groot  
 
-Het is verboden om de sort-method van een list te gebruiken
+Het is verboden om de sort-method van een list te gebruiken.
+
+Tip om een bestaande lijst oplopend te sorteren:  
+- wandel door de lijst en vergelijk elk element met het voorgaande element;  
+- als een element kleiner is dan zijn voorgaande, verwissel ze dan van plaats;  
+- herhaal bovenstaande tot je geen enkele keer nog twee getallen van plaats hebt moeten wisselen;  
 
 ### Voorbeeld
 
