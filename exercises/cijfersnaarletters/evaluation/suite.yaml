@@ -28,3 +28,7 @@
       stdout: "honderdveertig"
     - stdin: "100"
       stdout: "honderd"
+    - stdin: "108"
+      stdout: "honderdacht"
+    - stdin: "807"
+      stdout: "achthonderdzeven"
