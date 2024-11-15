@@ -6,8 +6,8 @@
       stdout: "De BMI van Bert is perfect."
     - stdin: "Michael\n25"
       stdout: "De BMI van Michael is perfect."
-    - stdin: "Jean-Luc\n27"
+    - stdin: "Jean-Luc\n26"
       stdout: "De BMI van Jean-Luc is te hoog."
-    - stdin: "Julia\n18"
+    - stdin: "Julia\n19"
       stdout: "De BMI van Julia is te laag."
 
