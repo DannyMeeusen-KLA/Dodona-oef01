@@ -12,7 +12,7 @@ Tip om een bestaande lijst oplopend te sorteren:
 
 ### Voorbeeld
 
-```console?lang=python&prompt=>>>
+```
 >>> 5 7 4 6 9 1 2 8 3 10
 [2, 4, 6, 8, 10]
 [1, 3, 5, 7, 9]
