@@ -2,8 +2,11 @@
   testcases:
     - stdin: "AB-Inbev\n67\n68"
       stdout: "De koers van het aandeel AB-Inbev is gestegen."
-    - stdin: "Elia\n32\n31"
+    - stdin: "Elia\n12\n11"
       stdout: "De koers van het aandeel Elia is gedaald."
     - stdin: "KBC\n41\n41"
       stdout: "De koers van het aandeel KBC is ongewijzigd."
-
+    - stdin: "Engie\n97\n100"
+      stdout: "De koers van het aandeel Engie is gestegen."
+    - stdin: "Agfa\n10\n9"
+      stdout: "De koers van het aandeel Agfa is gedaald."
