@@ -1,0 +1,34 @@
+# Lees de starttijd in vanaf het toetsenbord. We gaan hier minuten bij moeten optellen, dus ...
+starttijd =
+
+# Lees de af te leggen afstand in vanaf het toetsenbord. We gaan ook hiermee moeten rekenen, dus ...
+afstand = 
+
+# De fietser rijdt tegen 12 km per uur, dat betekent dat hij 5 minuten voor één km nodig heeft.
+# Zet de afstand in km om naar een tijd in minuten. Moet je delen door 5, of vermenigvuldigen met 5?
+tijd = 
+
+# Haal het uur uit de ingevoerde starttijd. Gebruik hiervoor de floor division
+uur = 
+
+# Haal de minuten uit de ingevoerde starttijd. Gebruik hiervoor de modulo
+min = 
+
+# Tel de benodigde tijd (in minuten) bij de startminuten
+min = min +
+
+# Als hierdoor min groter of gelijk aan 60 geworden is:
+# - bereken de nieuwe aankomstmin als de rest bij deling door 60
+# - tel 1 bij startuur.
+if ...
+
+
+# Als het startuur hierdoor groter of gelijk aan 24 geworden is:
+# - bereken het nieuwe aankomstuur als de rest bij deling door 24
+if ...
+
+# stel de aankomsttijd samen door het aankomstuur te vermenigvuldigen met 100 en de aankomstminuten er bij op te tellen.
+aankomsttijd = 
+
+# print de aankomsttijd
+
