@@ -1,0 +1,22 @@
+# Lees 3 getallen één voor één in. Dit gebeurt met een input-statement. Vermits we met de getallen gaan rekenen
+# zullen we de invoer moeten converteren naar integer.
+
+
+
+
+
+# Zet een tellertje op 0. Kies een gepaste naam voor deze variabele.
+
+
+
+# Kijk na of het eerste getal groter is dan 0. In dat geval: verhoog het tellertje met 1.
+
+
+
+# Herhaal dit voor het tweede en derde getal.
+
+
+
+
+# Druk het tellertje af met een print
+
