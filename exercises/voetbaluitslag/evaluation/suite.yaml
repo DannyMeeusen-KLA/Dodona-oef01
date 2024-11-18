@@ -6,4 +6,6 @@
       stdout: "Beerschot en Club Brugge spelen gelijk."
     - stdin: "Kortrijk\n1\nAntwerp\n2"
       stdout: "Antwerp wint de wedstrijd."
+    - stdin: "San Marino\n2\nSpanje\n10"
+      stdout: "Spanje wint de wedstrijd."
 
