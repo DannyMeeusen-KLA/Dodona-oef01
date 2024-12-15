@@ -1,6 +1,6 @@
 Geef de (gehele) a-, b- en c-coëfficiënt van een tweedegraadsvergelijking in de standaardvorm ax<sup>2</sup>+bx+c = 0 .  
   
-Het programma zal de oplossingen (of wortels) van de vergelijking berekenen. Daarbij gelden volgende regels:  
+Het programma zal de oplossingen (of wortels) van de vergelijking berekenen.  Daarbij gelden volgende regels:  
   
 - als er geen oplossingen zijn, dan wordt '/' afgedrukt;  
 - als er één oplossing is, dan wordt enkel deze oplossing afgedrukt;  

@@ -26,4 +26,3 @@ else:
     else:
         print (x2)
         print (x1)
-
