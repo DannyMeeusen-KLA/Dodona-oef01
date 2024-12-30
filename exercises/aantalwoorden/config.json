@@ -1,21 +1,21 @@
 {
-    "description": {
-      "names": {
-        "en": "Number of words in a phrase",
-        "nl": "Aantal woorden in een zin"
-      }
-    },
-    "evaluation": {
-      "handler": "tested",
-      "test_suite": "suite.yaml"
-    },
-    "programming_language": "python",
-    "access": "private",
-    "internals": {
-      "token": "-RMGdXbUPjItTDXI3bIpnwNGJafWYB-7HiDyBY_-Vig4C432GV7uiM2bf2V_SPz3",
-      "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-    },
-    "labels": [
-  
-    ]
-  }
+  "description": {
+    "names": {
+      "en": "Number of words in a phrase",
+      "nl": "Aantal woorden in een zin"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "pPIBYxvxYTugK5yz8eCTD7pV5R5BaaY5XT3nMkwgUebm8hY8jYUmJvimya_hZHTu",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
