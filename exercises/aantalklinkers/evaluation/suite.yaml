@@ -3,7 +3,7 @@
     - stdin: "Het KLA is een school van het Gemeenschapsonderwijs."
       stdout: "16"
     - stdin: "De Olympische Spelen in Parijs waren een succes."
-      stdout: "16"
+      stdout: "15"
     - stdin: "Het vak Informaticawetenschappen is best lastig."
       stdout: "15"
     - stdin: "Honden zijn geen fan van vuurwerk."
