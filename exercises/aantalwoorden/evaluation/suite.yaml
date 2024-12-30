@@ -1,0 +1,12 @@
+- tab: "aantalwoorden"
+  testcases:
+    - stdin: "Het KLA is een school van het Gemeenschapsonderwijs."
+      stdout: "8"
+    - stdin: "De Olympische Spelen  in  Parijs waren een succes."
+      stdout: "8"
+    - stdin: " Het vak Informaticawetenschappen is best lastig. "
+      stdout: "6"
+    - stdin: " Honden  zijn   geen  fan  van  vuurwerk. "
+      stdout: "6"
+    - stdin: "    De EU heeft haar hoofdzetel in Brussel."
+      stdout: "7"
