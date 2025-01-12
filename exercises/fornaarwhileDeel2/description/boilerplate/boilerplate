@@ -1,0 +1,4 @@
+tekst = input('Geef een tekst in: ')
+
+for letter in tekst:
+    print (letter)

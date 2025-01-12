@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "en": "Convert a for to a while, part 1: for with a range",
+      "nl": "Een for omzetten naar een while, deel 1: for met een range"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "EmVYX4BxNWfZGPUezibJJIgCUCmJ5uwmbh_dVyNh8IE-Zv7tMuZugN-2ybWRGVAd",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}

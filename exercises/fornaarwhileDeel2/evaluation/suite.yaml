@@ -1,0 +1,8 @@
+- tab: "for naar while, v1"
+  testcases:
+    - stdin: "abcde"
+      stdout: "a\nb\nc\nd\ne"
+    - stdin: "KLA"
+      stdout: "K\nL\nA"
+    - stdin: "Kevin De Bruyne"
+      stdout: "K\ne\nv\ni\nn\n \nD\ne\n \nB\nr\nu\ny\nn\ne"
