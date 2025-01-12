@@ -1,4 +1,4 @@
-- tab: "for naar while, v1"
+- tab: "for naar while, v2"
   testcases:
     - stdin: "abcde"
       stdout: "a\nb\nc\nd\ne"

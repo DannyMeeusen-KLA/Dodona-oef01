@@ -1,0 +1,8 @@
+- tab: "for naar while, v3"
+  testcases:
+    - stdin: "Dit is een zin."
+      stdout: "Dit\nis\neen\nzin."
+    - stdin: "Remco Evenpoel!"
+      stdout: "Remco\nEvenepoel!"
+    - stdin: "Wat was de uitslag van de wedstrijd tussen Beerschot en Antwerp?"
+      stdout: "Wat\nwas\nde\nuitslag\nvan\nde\nwedstrijd\ntussen\nBeerschot\nen\nAntwerp?"
