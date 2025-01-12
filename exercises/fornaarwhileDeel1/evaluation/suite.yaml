@@ -1,0 +1,12 @@
+- tab: "for naar while, v1"
+  testcases:
+    - stdin: "5\n8"
+      stdout: "5\n6\n7\n8"
+    - stdin: "-2\n6"
+      stdout: "-2\n-1\n0\n1\n2\n3\n4\n5\n6"
+    - stdin: "0\n0"
+      stdout: "0"
+    - stdin: "-8\n-4"
+      stdout: "-8\n-7\n-6\n-5\n-4"
+    - stdin: "3\n2"
+      stdout: ""

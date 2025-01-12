@@ -1,0 +1,5 @@
+onder = int(input('Geef de ondergrens: '))
+boven = int(input('Geef de bovengrens: '))
+
+for tel in range (onder, boven+1):
+    print (tel)
