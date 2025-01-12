@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "Convert a for to a while, part 1: for with a range",
-      "nl": "Een for omzetten naar een while, deel 1: for met een range"
+      "en": "Convert a for to a while, part 2: for in string",
+      "nl": "Een for omzetten naar een while, deel 2: for in string"
     }
   },
   "evaluation": {
