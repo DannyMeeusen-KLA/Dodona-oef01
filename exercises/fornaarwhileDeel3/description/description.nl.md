@@ -1,4 +1,4 @@
-De gebruiker dienteen zin van minstens twee woorden in te geven.  
+De gebruiker dient een zin van minstens twee woorden in te geven. Deze zin wordt omgezet naar een lijst van woorden met de split-method.  
 Het programma drukt de woorden lijn per lijn af.  
 Je krijgt de oplossing cadeau waarbij gebruik gemaakt werd van een for.  
 
