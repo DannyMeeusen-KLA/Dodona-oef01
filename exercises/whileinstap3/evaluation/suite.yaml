@@ -1,0 +1,12 @@
+- tab: "basis while, 3"
+  testcases:
+    - stdin: "abcdef"
+      stdout: "abcdefabcdefabcdefabcdef"
+    - stdin: "Driemaal"
+      stdout: "DriemaalDriemaalDriemaal"
+    - stdin: "Negentienletterwoord"
+      stdout: "NegentienletterwoordNegentienletterwoord"
+    - stdin: "Vierentwintigletterwoord"
+      stdout: "Vierentwintigletterwoord"
+    - stdin: "Vijfx"
+      stdout: "VijfxVijfxVijfxVijfxVijfx"
