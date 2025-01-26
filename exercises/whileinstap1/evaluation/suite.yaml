@@ -13,7 +13,7 @@
     - stdin: "7"
       stdout: "176"
     - stdin: "9"
-      stdout: "203"
+      stdout: "230"
     - stdin: "10"
       stdout: "257"
     - stdin: "12"
