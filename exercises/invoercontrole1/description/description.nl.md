@@ -7,7 +7,8 @@ Schrijf een programma dat beide gegevens opvraagt, met invoercontrole:
 - eerst wordt naar de dag van de week gevraagd. Als de invoer niet één van de bovenstaande 5 waarden is, dan verschijnt de foutmelding **Foutieve dag, probeer opnieuw.** en wordt de invoer van de weekdag opnieuw gevraagd;  
 - daarna wordt naar het aantal leerlingen gevraagd. Als dit aantal niet tussen 1 en 24 ligt, dan verschijnt de foutmelding **Foutief aantal, probeer opnieuw.** en wordt een nieuw aantal gevraagd;  
 - uiteindelijk verschijnt de zin **Uitstap op *dag* met *aantal* leerlingen.** In deze zin worden *dag* en *aantal* uiteraard vervangen door de correct ingebrachte waarden.  
-Bekijk de voorbeelden!  
+  
+Bekijk de voorbeelden aandachtig!  
   
 Let op: de foutmeldingen en de uiteindelijke uitvoertekst moeten exact overeenkomen met hetgeen hierboven getoond wordt.
 
