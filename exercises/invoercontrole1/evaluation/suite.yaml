@@ -1,0 +1,12 @@
+- tab: "invoercontrole, 1"
+  testcases:
+    - stdin: "ma\n-2\n20"
+      stdout: "Foutief aantal, probeer opnieuw.\nUitstap op maandag met 20 leerlingen."
+    - stdin: "sr\ndi\n16"
+      stdout: "Foutieve dag, probeer opnieuw.\nUitstap op dinsdag met 16 leerlingen."
+    - stdin: "fr\nvr\n25\n24"
+      stdout: "Foutieve dag, probeer opnieuw.\nFoutief aantal, probeer opnieuw.\nUitstap op vrijdag met 24 leerlingen."
+    - stdin: "wd\nWD\nwo\n-1\n2"
+      stdout: "Foutieve dag, probeer opnieuw.\nFoutieve dag, probeer opnieuw.\nFoutief aantal, probeer opnieuw.\nUitstap op woensdag met 2 leerlingen."
+    - stdin: "don\nDON\ndo\n0\n100\n10"
+      stdout: "Foutieve dag, probeer opnieuw.\nFoutieve dag, probeer opnieuw.\nFoutief aantal, probeer opnieuw.\nFoutief aantal, probeer opnieuw.\nUitstap op donderdag met 10 leerlingen."
