@@ -1,21 +1,37 @@
 Een leerkracht gaat op uitstap met zijn leerlingen.  
 Hij moet aan het secretariaat van de school doorgeven:  
 - welke dag van de week hij op uitstap gaat. Geldige waarden zijn **ma**, **di**, **wo**, **do**, **vr** .  
-- hoeveel leerlingen er meegaan: minimaal 1, maximaal 24.  
+- hoeveel leerlingen er meegaan: minimaal **1**, maximaal **24**.  
   
-Schrijf een programma dat beide gegevens opvraagt.  
+Schrijf een programma dat beide gegevens opvraagt, met invoercontrole:  
+- eerst wordt naar de dag van de week gevraagd. Als de invoer niet één van de bovenstaande 5 waarden is, dan verschijnt de foutmelding **Foutieve dag, probeer opnieuw.** en wordt de invoer van de weekdag opnieuw gevraagd;  
+- daarna wordt naar het aantal leerlingen gevraagd. Als dit aantal niet tussen 1 en 24 ligt, dan verschijnt de foutmelding **Foutief aantal, probeer opnieuw.** en wordt een nieuw aantal gevraagd;  
+- uiteindelijk verschijnt de zin **Uitstap op *dag* met *aantal* leerlingen.** In deze zin worden *dag* en *aantal* uiteraard vervangen door de correct ingebrachte waarden.  
+Bekijk de voorbeelden!  
   
-### Voorbeeld
+Let op: de foutmeldingen en de uiteindelijke uitvoertekst moeten exact overeenkomen met hetgeen hierboven getoond wordt.
+
+  
+### Voorbeeld 1
 
 ```console?lang=python&prompt=>>>
->>> 2
-122            (de opeenvolgende getallen zijn 6 - 5 - 15 - 14 - 42 - 41 - 123 - 122. We drukken enkel het laatste getal af.)
->>> 3
-203            (de opeenvolgende getallen zijn 9 - 8 - 24 - 23 - 69 - 68 - 204 - 203. We drukken enkel het laatste getal af.)
->>> 4
-284
->>> 5
-122
->>> 6
-149
+>>> don
+Foutieve dag, probeer opnieuw.
+>>> donderdag
+Foutieve dag, probeer opnieuw.
+>>> do
+>>> 25
+Foutief aantal, probeer opnieuw.
+>>> 22
+Uitstap op donderdag met 22 leerlingen.
+```
+
+### Voorbeeld 2
+
+```console?lang=python&prompt=>>>
+>>> ma
+>>> 0
+Foutief aantal, probeer opnieuw.
+>>> 20
+Uitstap op maandag met 20 leerlingen.
 ```
