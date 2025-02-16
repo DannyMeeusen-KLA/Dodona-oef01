@@ -3,7 +3,7 @@
     - stdin: "10\n8"
       stdout: "2 ballonnen kunnen niet verdeeld worden."
     - stdin: "t5\n555di\n47\n47\nf17\n17"
-      stdout: "invoer aantal ballonnen niet numeriek.\naantal ballonnen moet tussen 10 en 50 liggen.\naantal kleuters moet tussen 5 en 20 liggen.\ninvoer aantal kleuters niet numeriek.\n13 ballonnen kunnen niet verdeeld worden."
+      stdout: "invoer aantal ballonnen niet numeriek.\ninvoer aantal ballonnen niet numeriek.\naantal kleuters moet tussen 5 en 20 liggen.\ninvoer aantal kleuters niet numeriek.\n13 ballonnen kunnen niet verdeeld worden."
     - stdin: "t5\n555t\n50\n47\n4\n9"
       stdout: "invoer aantal ballonnen niet numeriek.\ninvoer aantal ballonnen niet numeriek.\naantal kleuters moet tussen 5 en 20 liggen.\naantal kleuters moet tussen 5 en 20 liggen.\n5 ballonnen kunnen niet verdeeld worden."
     - stdin: "5\n55di\n4\n10\n21\n20"
