@@ -1,7 +1,7 @@
 We onderzoeken in dit programma welk natuurlijk getal uit een gegeven interval de langste Collatz-cycle heeft.  
 Als je niet weet wat het vermoeden van Collatz is, zoek dit dan eerst op op het internet.  
   
-Een Collatz-cycle is de rij getal die voldoen aan het Collatz-algoritme:  
+Een Collatz-cycle is de rij getallen die ontstaat door het Collatz-algoritme toe te passen:  
 - als het getal even is, dan is het volgende getal de helft ervan  
 - als het getal oneven is, dan is het volgende getal het drievoud ervan plus 1  
 

@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "input control, number 2",
+      "nl": "invoercontrole, nummer 2"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "fevzG8TjAYRbMGEvxNen6EEGxhVZB8wczU55yjIDhd3HaVwg5eaBXEAEYW_SCW8b",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
