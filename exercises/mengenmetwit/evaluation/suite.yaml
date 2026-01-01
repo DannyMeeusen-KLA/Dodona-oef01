@@ -1,0 +1,12 @@
+- tab: "mengenmetwit"
+  testcases:
+    - stdin: "ROOD"
+      stdout: "ROOS"
+    - stdin: "ZWART"
+      stdout: "GRIJS"
+    - stdin: "BLAUW"
+      stdout: "LICHTBLAUW"
+    - stdin: "GROEN"
+      stdout: "MENGSEL NIET GEKEND"
+    - stdin: "rood"
+      stdout: "MENGSEL NIET GEKEND"
