@@ -10,3 +10,5 @@
       stdout: "-11 -9"
     - stdin: "-13\n-13"
       stdout: "-13"
+    - stdin: "-9\n-7"
+      stdout: "-9 -7"
