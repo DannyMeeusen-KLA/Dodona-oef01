@@ -1,7 +1,11 @@
 Schrijf een programma waarbij drie gehele getallen worden ingegeven.  
 Als het laatste getal tussen de eerste twee getallen ligt (de grenswaarden inbegrepen), dan wordt het woord "TUSSEN" afgedrukt.  
 Als dat niet het geval is, dan wordt het woord "NIET TUSSEN" afgedrukt.  
-Je mag er van uitgaan dat het eerste getal niet groter is dan het tweede getal.
+Je mag er van uitgaan dat het eerste getal niet groter is dan het tweede getal.  
+  
+<u>Tip</u>: het derde getal moet aan twee voorwaarden voldoen opdat het TUSSEN het eerste en het tweede zou liggen:  
+- het moet groter of gelijk zijn aan het eerste getal, én  
+- het moet kleiner of gelijk zijn aan het tweede getal.
 
 ### Voorbeeld
 
