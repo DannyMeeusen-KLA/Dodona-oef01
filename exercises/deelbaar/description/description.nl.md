@@ -1,8 +1,12 @@
 Schrijf een programma waarbij twee natuurlijke getallen worden ingegeven.
 Het programma kijkt na of het tweede getal een deler is van het eerste of niet.
 - Als het tweede getal een deler is van het eerste, dan verschijnt de melding "DEELBAAR"
-- Als het tweede getal geen deler is van het eerste, dan verschijnt de melding "NIET DEELBAAR"
-
+- Als het tweede getal geen deler is van het eerste, dan verschijnt de melding "NIET DEELBAAR"  
+  
+<u>Tip</u>: je bepaalt of het tweede getal een deler is van het eerste door het eerste getal te delen door het tweede getal en de rest te bepalen.  
+Als deze rest gelijk is aan 0, dan is het tweede getal een deler van het eerste.  
+Als deze rest niet gelijk is aan 0, dan is het tweede getal geen deler van het eerste.
+  
 ### Voorbeeld
 
 ```console?lang=python&prompt=>>>
@@ -11,5 +15,11 @@ Het programma kijkt na of het tweede getal een deler is van het eerste of niet.
 DEELBAAR
 >>> 15
 >>> 4
+NIET DEELBAAR
+>>> 999
+>>> 11
+DEELBAAR
+>>> 15
+>>> 45
 NIET DEELBAAR
 ```
