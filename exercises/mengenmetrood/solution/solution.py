@@ -3,7 +3,7 @@ kleur = input("Geef de tweede kleur: ")
 if kleur == "GEEL":
     print ("ORANJE")
 elif kleur == "WIT":
-    print ("ROOS")
+    print ("ROZE")
 elif kleur == "BLAUW":
     print ("PAARS")
 else:

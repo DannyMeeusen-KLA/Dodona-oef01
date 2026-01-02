@@ -1,6 +1,6 @@
 Schrijf een programma waarbij het resultaat van het mengen van twee kleuren bepaald wordt.   
 In de verfpot is WITTE verf. Door er een tweede kleur aan toe te voegen, krijgen we een nieuwe kleur:  
-- als er ROOD aan toegevoegd wordt, krijgen we ROOS.  
+- als er ROOD aan toegevoegd wordt, krijgen we ROZE.  
 - als er ZWART aan toegevoegd wordt, krijgen we GRIJS.  
 - als er BLAUW aan toegevoegd wordt, krijgen we LICHTBLAUW.  
   
@@ -12,7 +12,7 @@ de zin 'MENGSEL NIET GEKEND' af.
 
 ```console?lang=python&prompt=>>>
 >>> ROOD
-ROOS
+ROZE
 >>> ZWART
 GRIJS
 >>> BLAUW

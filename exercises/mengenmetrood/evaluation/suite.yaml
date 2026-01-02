@@ -1,7 +1,7 @@
 - tab: "mengenmetrood"
   testcases:
     - stdin: "WIT"
-      stdout: "ROOS"
+      stdout: "ROZE"
     - stdin: "GEEL"
       stdout: "ORANJE"
     - stdin: "BLAUW"

@@ -1,7 +1,7 @@
 - tab: "mengenmetwit"
   testcases:
     - stdin: "ROOD"
-      stdout: "ROOS"
+      stdout: "ROZE"
     - stdin: "ZWART"
       stdout: "GRIJS"
     - stdin: "BLAUW"
