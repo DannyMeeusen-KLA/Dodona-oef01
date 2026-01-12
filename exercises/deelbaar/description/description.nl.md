@@ -17,7 +17,7 @@ DEELBAAR
 >>> 4
 NIET DEELBAAR
 >>> 999
->>> 11
+>>> 9
 DEELBAAR
 >>> 15
 >>> 45
