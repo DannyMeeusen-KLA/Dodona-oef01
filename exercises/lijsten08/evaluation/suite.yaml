@@ -7,7 +7,7 @@
     - stdin: "0\n12"
       stdout: "13\nHet tiende element is 9"
     - stdin: "21\n31"
-      stdout: "10\nHet tiende element is 30"
+      stdout: "10\nHet tiende element is 31"
     - stdin: "23\n32"
       stdout: "9\nTe weinig elementen!"
     - stdin: "24\n35"
