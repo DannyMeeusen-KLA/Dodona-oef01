@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "en": "Steek twee getallen in een lijst in stijgende volgorde",
+      "nl": "Add two numbers to a list in ascending order"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "fKII564b_q_wQmgdkgpR4hX4IkhspRq-uA-Cry6ffmAmzvIU6f-yg4CpiRhUWnVj",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": [
+
+  ]
+}
