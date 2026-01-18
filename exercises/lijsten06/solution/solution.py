@@ -8,3 +8,5 @@ if getal1 < getal2:
 else:
     lijst.append (getal2)
     lijst.append (getal1)
+
+print (lijst)

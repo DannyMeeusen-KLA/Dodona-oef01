@@ -2,6 +2,14 @@ Schrijf een programma waarbij de gebruiker twee getallen ingeeft, op twee versch
 Vervolgens wordt eerst het kleinste getal aan een lege lijst toegevoegd, dan het grootste getal.  
 Druk de lijst (met twee elementen) af.  
 
+<u>Werkwijze:</u>
+- Lees de twee getallen in met twee input-instructies (let op: we gaan er mee rekenen!)
+- Maak een lege lijst aan
+- Kijk na welk getal van de twee het kleinst is (met een if)
+- Voeg dat getal als eerste toe aan de lijst, voeg het andere getal daarna toe (met de append-method)
+- Druk de lijst af
+
+
 ### Voorbeeld
 
 ```console?lang=python&prompt=>>>

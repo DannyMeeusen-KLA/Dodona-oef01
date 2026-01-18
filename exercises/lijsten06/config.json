@@ -1,8 +1,8 @@
 {
   "description": {
     "names": {
-      "en": "Steek twee getallen in een lijst in stijgende volgorde",
-      "nl": "Add two numbers to a list in ascending order"
+      "en": "Add two numbers to a list in ascending order",
+      "nl": "Steek twee getallen in een lijst in stijgende volgorde"
     }
   },
   "evaluation": {
