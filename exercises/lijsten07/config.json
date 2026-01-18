@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "Add two numbers to a list in ascending order, check doubles",
+      "nl": "Steek twee getallen in een lijst in stijgende volgorde, let op voor dubbels"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "rH8hj83MFgXNVwptWXhF-MPpad-aEFf3-HVnXZEyee5twakKradcHW7f-fShxaF5",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
