@@ -23,12 +23,14 @@ Als de lijst minder dan 10 elementen bevat, dan drukt het prorgamma de tekst 'Te
 Te weinig elementen!
 >>> 12
 >>> 23
-Het tiende element is 21.
+12
+Het tiende element is 21
 >>> 18
 >>> 37
 19
-Het tiende element is 28.
+Het tiende element is 28
 >>> 20
 >>> 29
+9
 Te weinig elementen!
 ```
