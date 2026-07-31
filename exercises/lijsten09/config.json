@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "Write the salutation in a letter with multiple addressees",
+      "nl": "Schrijf de aankondiging in een brief met meerdere bestemmelingen"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private",
+  "internals": {
+    "token": "6BMe9W-WQViie-wf2N69Z9z9UAaTTNFaMjKwUwqy6-M8bfmxytwPbS6aG8yVyyq5",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}
