@@ -17,7 +17,7 @@ Bekijk de voorbeelden.
 - Voeg het voorlaatste element (als dat er is!) achteraan toe aan de uitvoerstring, gevolgd door ' en '.  
 - Voeg het laatste element (als dat er is!) achteraan toe aan de uitvoerstring.  
   
-  
+ 
 ### Voorbeeld
 
 ```console?lang=python&prompt=>>>
