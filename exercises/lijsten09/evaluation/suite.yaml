@@ -1,7 +1,7 @@
 - tab: "lijsten09"
   testcases:
     - stdin: "Anna\nBert\nCathy\nDirk\n\n"
-      stdout: "Beste Anna, Bert, Cathy en Dorien"
+      stdout: "Beste Anna, Bert, Cathy en Dirk"
     - stdin: "Erik\nFrank\nGreet\n\n"
       stdout: "Beste Erik, Frank en Greet"
     - stdin: "Herman\nInge\n\n"
