@@ -6,7 +6,7 @@ Druk vervolgens de aanspreking van de brief als volgt af:
 - Als er slechts één naam wordt ingegeven, dient er uiteraard geen komma of 'en' getoond te worden.  
 - Als er geen namen worden ingegeven, dient de melding 'Geen bestemmelingen!' afgedrukt te worden.  
 
-Bekijk de voorbeelden.  
+Bekijk goed de voorbeelden.  
   
 <u>Tips:</u>
 - Lees de namen in met een *while* en steek ze in een lijst.  
