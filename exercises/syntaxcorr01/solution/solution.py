@@ -28,7 +28,7 @@ print ('Het dubbel van je lievelingsgetal is', getal*2)
 # Opgave 5: vraag naar iemands lievelingsgetal
 # Druk daarna het drievoud van dit getal af in de volzin      Het dubbel van je lievelingsgetal is getal*2.        Let op: er staat een punt na het getal!
 # Als b.v. 7 wordt ingebracht, dan is de zin                  Het drievoud van je lievelingsgetal is 21.
-# Bij deze opgave zal je een extra instructie moeten toevoegen om een spatie voor het laatste punt te vermijden.
+# Bij deze opgave zal je een extra instructie moeten tussenvoegen om een spatie voor het laatste punt te vermijden.
 getal = int(input('Wat is je lievelingsgetal?'))
 zin = "Het drievoud van je lievelingsgetal is "+(getal*2)+'.'
 print (zin)

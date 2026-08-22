@@ -1,9 +1,9 @@
 Het goede nieuws is dat je van ons de oplossing van het programma cadeau krijgt.  
-Het slechte nieuws is dat er behoorlijk wat syntaxfouten in zitten. Bij een syntaxfout is er gezegd tegen de regels van Python die je in eerdere oefeningen leerde.  
+Het slechte nieuws is dat er behoorlijk wat syntaxfouten in zitten. Bij een syntaxfout is er gezondigd tegen de regels van Python die je in eerdere oefeningen leerde.  
   
 In elke paragraaf staat telkens eerst wat de bedoeling is en dan de voorgestelde oplossing. Aan jou om die laatste te corrigeren.  
 Let op: zowel de input()- als de print()-instructies kunnen fouten bevatten.  
   
-In de laatste opgaves moet je veelvouden van een getal berekenen. We zien later dat dat kan met het *-teken:  
-zo zal de bewerking    getal*5       als resultaat het vijfvoud van het getal berekenen.  
+In de laatste opgaves moet je veelvouden van een getal berekenen. We zien later de vermenigvuldiging in Python gebeurt met een sterretje:  
+zo zal de bewerking    getal * 5       als resultaat het vijfvoud van het getal berekenen.  
   
