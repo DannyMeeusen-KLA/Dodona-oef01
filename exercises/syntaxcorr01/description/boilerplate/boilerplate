@@ -13,19 +13,19 @@ naam = input(Geef je naam:)
 dagen = input(Hoeveel dagen oud ben je morgen?)  
 print (Morgen is,naam,dagen+1,dagen oud.)  
   
-# Opgave 3: Vraag iemands naam en daarna zijn/haar woonplaats  
+# Opgave 4: Vraag iemands naam en daarna zijn/haar woonplaats  
 # Druk daarna deze gegevens af in de volzin    naam woont in woonplaats  
 input(Geef je naam:)  
 input(Waar woon je?)
 print (naam,woont in, woonplaats)
 
-# Opgave 4: vraag naar iemands lievelingsgetal
+# Opgave 5: vraag naar iemands lievelingsgetal
 # Druk daarna het dubbel van dit getal af in de volzin      Het dubbel van je lievelingsgetal is getal*2
 # Als b.v. 7 wordt ingebracht, dan is de zin                Het dubbel van je lievelingsgetal is 14
 getal = input(Wat is je lievelingsgetal?)
 print (Het dubbel van je lievelingsgetal is getal*2)
 
-# Opgave 5: vraag naar iemands lievelingsgetal
+# Opgave 6: vraag naar iemands lievelingsgetal
 # Druk daarna het drievoud van dit getal af in de volzin      Het dubbel van je lievelingsgetal is getal*2.        Let op: er staat een punt na het getal!
 # Als b.v. 7 wordt ingebracht, dan is de zin                  Het drievoud van je lievelingsgetal is 21.
 # Bij deze opgave zal je een extra instructie moeten toevoegen om een spatie voor het laatste punt te vermijden.
