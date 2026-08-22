@@ -4,6 +4,6 @@ Het slechte nieuws is dat er behoorlijk wat syntaxfouten in zitten. Bij een synt
 In elke paragraaf staat telkens eerst wat de bedoeling is en dan de voorgestelde oplossing. Aan jou om die laatste te corrigeren.  
 Let op: zowel de input()- als de print()-instructies kunnen fouten bevatten.  
   
-In de laatste opgaves moet je veelvouden van een getal berekenen. We zien later de vermenigvuldiging in Python gebeurt met een sterretje:  
+In de laatste opgaves moet je veelvouden van een getal berekenen. De vermenigvuldiging in Python gebeurt met een sterretje:  
 zo zal de bewerking    getal * 5       als resultaat het vijfvoud van het getal berekenen.  
   
