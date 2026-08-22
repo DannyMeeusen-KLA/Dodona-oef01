@@ -5,7 +5,7 @@ print ("Het KLA is een grote school.')
 # Druk daarna dit bedrag af in de volzin    Op de rekening van <naam> staat <bedrag> euro.</i>  
 naam = input(Geef je naam:)  
 bedrag = input(Geef het bedrag op je rekening)  
-print (Op de rekening van,naam,staat,bedrag,in euro.)  
+print (Op de rekening van,naam,staat,bedrag,euro.)  
   
 # Opgave 3: Vraag iemands naam en daarna hoeveel dagen oud hij/zij is (een geheel getal)  
 # Druk daarna af hoeveel dagen oud hij morgen is in de volzin    Morgen is naam dagen oud.  

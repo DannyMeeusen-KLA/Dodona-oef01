@@ -1,11 +1,13 @@
 - tab: "syntaxcorrectie"
   testcases:
-    - stdin: "Robin\n123\nWenche\n12345\n4\n7"
-      stdout: "Het KLA is een grote school
+    - stdin: "Robin\n123\nWenche\n12345\nNick\nAntwerpen\n4\n7"
+      stdout: "Het KLA is een grote school.
       
       Op de rekening van Robin staat 123 euro.
       
       Morgen is Wenche 12346 dagen oud.
+      
+      Nick woont in nAntwerpen
       
       Het dubbel van je lievelingsgetal is 8
       
