@@ -11,7 +11,7 @@ print ('Op de rekening van',naam,'staat',bedrag,'euro.')
 # Druk daarna af hoeveel dagen oud hij morgen is in de volzin    Morgen is naam dagen oud.  
 naam = input('Geef je naam:')  
 dagen = int(input('Hoeveel dagen oud ben je morgen?'))  
-print ('Morgen is',naam,dagen+1,'oud.')  
+print ('Morgen is',naam,dagen+1,'dagen oud.')  
   
 # Opgave 3: Vraag iemands naam en daarna zijn/haar woonplaats  
 # Druk daarna deze gegevens af in de volzin    naam woont in woonplaats  
