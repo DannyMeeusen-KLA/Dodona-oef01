@@ -1,0 +1,4 @@
+- tab: "syntaxcorrectie"
+  testcases:
+    - stdin: "Robin\n123\nWenche\n12345\n4\n7"
+      stdout: "Het KLA is een grote school\nOp de rekening van Robin staat 123 euro.\nMorgen is Wenche 12346 dagen oud.\nHet dubbel van je lievelingsgetal is 8\nHet drievoud van je leivelingsgetal is 21.""

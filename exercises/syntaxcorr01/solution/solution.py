@@ -1,0 +1,36 @@
+# Opgave 1: Druk de zin af   Het KLA is een grote school.  
+print ("Het KLA is een grote school.")
+
+# Opgave 2: Vraag iemands naam en daarna hoeveel geld er op zijn/haar rekening staat (een geheel getal)  
+# Druk daarna dit bedrag af in de volzin    Op de rekening van <naam> staat <bedrag> euro.</i>  
+naam = input('Geef je naam:')  
+bedrag = input('Geef het bedrag op je rekening')  
+print ('Op de rekening van',naam,'staat',bedrag,'in euro.')  
+  
+# Opgave 3: Vraag iemands naam en daarna hoeveel dagen oud hij/zij is (een geheel getal)  
+# Druk daarna af hoeveel dagen oud hij morgen is in de volzin    Morgen is naam dagen oud.  
+naam = input('Geef je naam:')  
+dagen = int(input('Hoeveel dagen oud ben je morgen?'))  
+print ('Morgen is',naam,dagen+1,'oud.')  
+  
+# Opgave 3: Vraag iemands naam en daarna zijn/haar woonplaats  
+# Druk daarna deze gegevens af in de volzin    naam woont in woonplaats  
+naam = input('Geef je naam:')  
+woonplaats = input('Waar woon je?')
+print (naam,'woont in', woonplaats)
+
+# Opgave 4: vraag naar iemands lievelingsgetal
+# Druk daarna het dubbel van dit getal af in de volzin      Het dubbel van je lievelingsgetal is getal*2
+# Als b.v. 7 wordt ingebracht, dan is de zin                Het dubbel van je lievelingsgetal is 14
+getal = int(input('Wat is je lievelingsgetal?'))
+print ('Het dubbel van je lievelingsgetal is', getal*2)
+
+# Opgave 5: vraag naar iemands lievelingsgetal
+# Druk daarna het drievoud van dit getal af in de volzin      Het dubbel van je lievelingsgetal is getal*2.        Let op: er staat een punt na het getal!
+# Als b.v. 7 wordt ingebracht, dan is de zin                  Het drievoud van je lievelingsgetal is 21.
+# Bij deze opgave zal je een extra instructie moeten toevoegen om een spatie voor het laatste punt te vermijden.
+getal = int(input('Wat is je lievelingsgetal?'))
+zin = "Het drievoud van je lievelingsgetal is "+(getal*2)+'.'
+print (zin)
+
+
