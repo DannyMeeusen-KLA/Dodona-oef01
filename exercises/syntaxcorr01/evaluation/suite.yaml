@@ -12,3 +12,15 @@
       Het dubbel van je lievelingsgetal is 8
       
       Het drievoud van je lievelingsgetal is 21."
+    - stdin: "Danny\n99\nSam\n9999\nJonas\nEssen\n100\n1000"
+      stdout: "Het KLA is een grote school.
+      
+      Op de rekening van Danny staat 99 euro.
+      
+      Morgen is Sam 10000 dagen oud.
+      
+      Jonas woont in Essen
+
+      Het dubbel van je lievelingsgetal is 2000
+      
+      Het drievoud van je lievelingsgetal is 3000."
