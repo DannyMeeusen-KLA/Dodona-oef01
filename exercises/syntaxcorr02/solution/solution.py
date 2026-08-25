@@ -7,4 +7,4 @@ print("Je bent " + str(maanden) + " maanden oud.")
 lengte = int(input('Geef de lengte van de rechthoek:'))
 breedte = int(input('Geef de breedte van de rechthoek:'))  
 print (lengte*breedte)
-print (lengte+breedte)*2  
+print ((lengte+breedte)*2)  
