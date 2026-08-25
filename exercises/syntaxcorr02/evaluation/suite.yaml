@@ -1,13 +1,13 @@
 - tab: "syntaxcorrectie"
   testcases:
     - stdin: "6\n7\n8"
-      stdout: "72
+      stdout: "Je bent 72 maanden oud.
       
       56
       
       30"
-    - stdin: "Danny\n4\n10\n8"
-      stdout: "48
+    - stdin: "4\n10\n8"
+      stdout: "Je bent 48 maanden oud.
       
       80
       
