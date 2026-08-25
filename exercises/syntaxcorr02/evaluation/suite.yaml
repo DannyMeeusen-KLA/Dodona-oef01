@@ -1,0 +1,14 @@
+- tab: "syntaxcorrectie"
+  testcases:
+    - stdin: "6\n7\n8"
+      stdout: "72
+      
+      56
+      
+      30"
+    - stdin: "Danny\n4\n10\n8"
+      stdout: "48
+      
+      80
+      
+      36"
