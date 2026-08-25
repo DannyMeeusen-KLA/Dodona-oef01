@@ -1,0 +1,11 @@
+- tab: "syntaxcorrectie"
+  testcases:
+    - stdin: "8\n12\nBirgitt\ngeel"
+      stdout: "Je betaalde 96 euro.
+      
+      Birgitt houdt van geel."
+    - stdin: "12\n17\nNena\npurper"
+      stdout: "Je betaalde 204 euro.
+      
+      Nena houdt van purper."
+
