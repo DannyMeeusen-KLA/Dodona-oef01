@@ -7,6 +7,9 @@ elif temp < 20:
     print ("Zomerjas")
     print ("Pet")
     print ("Lange broek")
+elif temp == 20:
+    print ("Korte broek")
+    print ("T-shirt")
 else:
-    print ()"Zonnebril")
+    print ("Zonnebril")
     

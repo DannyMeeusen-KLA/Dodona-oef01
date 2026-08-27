@@ -17,5 +17,9 @@
       
       Lange broek"
     - stdin: "20"
+      stdout: "Korte broek
+      
+      T-shirt"
+    - stdin: "21"
       stdout: "Zonnebril"
 
