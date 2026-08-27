@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "en": "Correct the syntax-errors (if-else exercise 1)",
+      "nl": "Verbeter de syntaxfouten (if-else opgave 1)"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "public",
+  "internals": {
+    "token": "3mvYgnG3rar4BrbCaPngV9RMAU5H7zDJiHhAX8uGEMCywKUawHuxNrhvAaDnBvRd",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  },
+  "labels": []
+}

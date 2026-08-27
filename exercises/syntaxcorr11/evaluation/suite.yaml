@@ -1,0 +1,15 @@
+- tab: "syntaxcorrectie if-else"
+  testcases:
+    - stdin: "9"
+      stdout: "Buis"
+    - stdin: "10"
+      stdout: "Geslaagd"
+    - stdin: "1"
+      stdout: "Buis"
+    - stdin: "19"
+      stdout: "Geslaagd"
+    - stdin: "0"
+      stdout: "Buis"
+    - stdin: "20"
+      stdout: "Geslaagd"
+

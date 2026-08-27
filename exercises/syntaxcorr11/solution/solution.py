@@ -1,0 +1,5 @@
+score = int(input('Geef je score op 20: '))
+if score >= 10:
+    print("Geslaagd")
+else:
+    print("Buis")
