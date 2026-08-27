@@ -1,0 +1,21 @@
+- tab: "syntaxcorrectie if-else"
+  testcases:
+    - stdin: "9"
+      stdout: "Dikke jas
+      
+      Sjaal"
+    - stdin: "10"
+      stdout: "Zomerjas
+      
+      Pet
+      
+      Lange broek"
+    - stdin: "19"
+      stdout: "Zomerjas
+      
+      Pet
+      
+      Lange broek"
+    - stdin: "20"
+      stdout: "Zonnebril"
+
