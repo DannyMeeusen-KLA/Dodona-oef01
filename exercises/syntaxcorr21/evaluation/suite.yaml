@@ -1,0 +1,34 @@
+- tab: "syntaxcorrectie for"
+  testcases:
+    - stdin: "1"
+      stdout: "5"
+    - stdin: "2"
+      stdout: "5
+      
+      10"
+    - stdin: "3"
+      stdout: "5
+      
+      10
+      
+      15"
+    - stdin: "10"
+      stdout: "5
+      
+      10
+      
+      15
+      
+      20
+      
+      25
+      
+      30
+      
+      35
+      
+      40
+      
+      45
+      
+      50"
