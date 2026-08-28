@@ -6,7 +6,7 @@ Daarna moet het programma de som van alle getallen van 1 tot en met <I>N</I> afd
 Als het ingebrachte getal kleiner is dan 0, moet er een foutmelding volgen.  
 Bekijk de voorbeelden voor de te gebruiken volzin in dat geval.  
   
-Opgelet: in deze oefening zitten ook logische fouten!  
+Opgelet: in de voorgestelde oplossing zitten ook logische fouten!  
 
 ### Voorbeelden
 
