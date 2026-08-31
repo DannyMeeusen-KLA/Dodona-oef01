@@ -1,0 +1,14 @@
+- tab: "syntaxcorr31"
+  testcases:
+    - stdin: "50\n600\n4.2\nhalt\nStopp\nstop"
+      stdout: "12
+      
+      3
+      
+      2"
+    - stdin: "35\n141\n99.9\nstop"
+      stdout: "5
+      
+      7
+      
+      0"
