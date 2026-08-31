@@ -10,7 +10,7 @@ gespaard = 0
 aantalMaanden = 0
 
 while gespaard < doel:
-    gespaard = gespaard + permaand
+    gespaard = gespaard + perMaand
     aantalMaanden = aantalMaanden + 1
 
 print (aantalMaanden)
