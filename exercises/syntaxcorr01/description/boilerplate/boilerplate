@@ -7,10 +7,10 @@ naam = input(Geef je naam:)
 bedrag = input(Geef het bedrag op je rekening)  
 print (Op de rekening van,naam,staat,bedrag,euro.)  
   
-# Opgave 3: Vraag iemands naam en daarna hoeveel dagen oud hij/zij is (een geheel getal)  
-# Druk daarna af hoeveel dagen oud hij morgen is in de volzin    Morgen is naam dagen oud.  
+# Opgave 3: Vraag iemands naam en daarna hoeveel dagen oud hij/zij vandaag is (een geheel getal)  
+# Druk daarna af hoeveel dagen oud hij morgen is in de volzin    Morgen is <naam> <dagen> oud.  
 naam = input(Geef je naam:)  
-dagen = input(Hoeveel dagen oud ben je morgen?)  
+dagen = input(Hoeveel dagen oud ben je vandaag?)  
 print (Morgen is,naam,dagen+1,dagen oud.)  
   
 # Opgave 4: Vraag iemands naam en daarna zijn/haar woonplaats  
